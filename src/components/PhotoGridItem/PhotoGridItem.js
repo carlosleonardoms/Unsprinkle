@@ -66,6 +66,7 @@ const Tag = styled.li`
   &:not(:last-of-type){
     margin-right: 8px;
   }
+  
   `;
 
 export default PhotoGridItem;
